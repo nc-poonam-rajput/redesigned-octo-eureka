@@ -1,2 +1,5 @@
 Poonam's shopping list
 ----------------------
+apples
+coffee
+chocolate
